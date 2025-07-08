@@ -14,3 +14,7 @@ Temporary HTML files will be generated in `_site` directory, this is what will b
 ## Posting
 
 Add new files in _posts. Push to main to publish
+
+## TODO
+
+I liked the minima layout but not the colours - try and get a dark theme going which also has a nice layout
