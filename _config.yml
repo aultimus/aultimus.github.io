@@ -28,6 +28,9 @@ plugins:
 - jekyll-remote-theme
 - jekyll-feed
 
+# fix post links not working with categories - force format
+permalink: /:year/:month/:day/:title.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
