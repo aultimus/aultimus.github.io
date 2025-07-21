@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Baconometer is a playful yet technically interesting web app that answers the question: _how connected are two actors through shared films?_ Inspired by the "Six Degrees of Kevin Bacon" game, the app computes the shortest path of collaboration between actors using movie credits. At the time of writing the baconometer is hosted here: [baconometer.aultimus.org](https://baconometer.aultimus.org/). The baconometer is inspired by venerable [oracle of bacon](https://oracleofbacon.org/).
+The Baconometer is a playful yet technically interesting web app that answers the question: _how connected are two actors through shared films?_ Inspired by the "Six Degrees of Kevin Bacon" game, the app computes the shortest path of collaboration between actors using movie credits. At the time of writing the baconometer is hosted [here] (https://baconometer.foobarcat.com). The baconometer is inspired by venerable [oracle of bacon](https://oracleofbacon.org/).
 
 This post outlines how the Baconometer was designed and built - from database selection, and service development to deployment strategy.
 
@@ -28,7 +28,7 @@ To solve this, I wrote a custom TMDB crawler that recursively traverses the API:
 - Querying their movie credits
 - Expanding the graph through co-actors in each film
 
-This strategy incrementally builds a usable actor–film–actor graph suitable for import into Neo4j. The crawler is available here: [tmdb-crawler](https://github.com/aultimus/tmdb-crawler).
+This strategy incrementally builds a usable actor–film–actor graph suitable for import into Neo4j. The crawler is available here: [tmdb-crawler](https://github.com/aultimus/tmbd-crawler).
 
 ## Design Decisions
 
