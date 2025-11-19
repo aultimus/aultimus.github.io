@@ -18,17 +18,6 @@ body {
   color: var(--fg) !important;
 }
 
-/* Links (replace old bright yellow) */
-a {
-  color: var(--accent) !important;
-  border-bottom: 1px solid rgba(255, 183, 77, 0.3);
-}
-
-a:hover {
-  color: var(--accent-hover) !important;
-  border-bottom-color: rgba(255, 183, 77, 0.7);
-}
-
 /* Headings (remove sepia tones) */
 h1, h2, h3, h4, h5, h6 {
   color: var(--fg) !important;
@@ -125,4 +114,16 @@ article {
 .post-content p,
 article p {
   white-space: normal;
+}
+
+/* Homepage-blue link colour */
+a {
+  color: #61dafb !important;
+  border-bottom: 1px solid rgba(97, 218, 251, 0.35) !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8fe9ff !important;
+  border-bottom-color: rgba(97, 218, 251, 0.7) !important;
 }
