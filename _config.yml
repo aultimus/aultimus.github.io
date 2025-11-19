@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Foobarcat
-email: matthew.ault@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The technical blog of @aultimus. Home for all my software shower thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -42,3 +41,9 @@ permalink: /:year/:month/:day/:title.html
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name: "Matthew Ault"
+  email: "matthew [dot] ault [at] gmail [dot] com"
+  homepage: "https://foobarcat.com"
+  linkedin: "https://www.linkedin.com/in/matthew-ault-366a4826/"
