@@ -16,7 +16,7 @@ Rather than treat this as a complaint, I realised it’s a clean, real-world ill
 
 Consider the two functions involved:
 
-- **Engineering**, incentivised to move quickly, unblock teammates, and ship features and provide value to the user.
+- **Engineering**, incentivised to move quickly, unblock teammates, ship features and provide value to the user.
     
 - **Security**, incentivised to reduce risk and prevent incidents.
     
