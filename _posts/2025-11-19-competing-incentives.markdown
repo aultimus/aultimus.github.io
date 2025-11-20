@@ -1,6 +1,6 @@
 # Security vs Engineering - Competing Incentives
 
-This morning I tried to upload a custom binary that I built via Slack to unblock a colleague. Instead of a normal upload, Slack responded with:
+This morning I tried to upload a custom camera-firmware build via Slack to unblock a colleague. Instead of a normal upload, Slack responded with:
 
 
 !['Your file couldn't be uploaded:This file may contain a virus or other malware and can’t be uploaded to Slack.']({{ site.baseurl }}/images/slack_file_upload_error.png)
