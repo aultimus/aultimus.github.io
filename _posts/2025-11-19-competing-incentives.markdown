@@ -48,9 +48,8 @@ We see the same pattern in many domains: well-intentioned controls create knock-
 
 So what breaks the cycle?
 
-Leadership that understands the tradeoff.  
-Leadership that can see both the visible risks and the invisible costs.  
-Leadership that invites engineering and security to challenge creeping friction before it calcifies into culture.
-Security and Engineering working as a partnership rather than opposing functions.
+Leadership that understands the tradeoff — leadership that can see both the visible risks and the invisible costs.
+Leadership that invites Engineering and Security to challenge creeping friction before it calcifies into culture.
+And Security and Engineering working as partners, not opponents.
 
-This article is just a small introduction. In future pieces, I’ll explore incentives more deeply and show how they quietly drive organisational behaviour far more than intentions or processes ever can.
+This article is just a small introduction. In future pieces, I’ll explore incentives more deeply — showing how they quietly shape organisational behaviour, and how thoughtful incentive design can resolve undesirable outcomes and help organisations achieve their goals far more effectively.
