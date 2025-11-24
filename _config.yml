@@ -44,6 +44,6 @@ permalink: /:year/:month/:day/:title.html
 
 author:
   name: "Matthew Ault"
-  email: "matthew [dot] ault [at] gmail [dot] com"
+  # email: TODO
   homepage: "https://foobarcat.com"
   linkedin: "https://www.linkedin.com/in/m-ault/"
