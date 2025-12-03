@@ -19,13 +19,13 @@ Companies, including software companies, are made up of humans. And because huma
 
 This lens differs from the traditional process-first view. Process attempts to correct behaviour by prescribing what _should_ happen. But processes are aspirational, relying upon adoption, interpretation, and compliance. They describe intention.
 
-Incentives explain what _does_ happen and why. They describe reality.
+Incentives explain what _does_ happen and why. They describe **reality**.
 
 Alignment is the condition where an organisation’s stated goals, incentive structures, and actual behaviour all point in the same direction.
 
 In an aligned organisation, what is said, what is rewarded, and what is done are congruent. Feedback loops reinforce the stated mission rather than undermine it. Effort converts cleanly into progress with minimal waste.
 
-Misalignment does not happen overnight. Like timber slowly warping under sustained load, it is a gradual, often imperceptible process that ratchets distortion by degrees. This process I call — Drift.
+Misalignment does not happen overnight. Like timber slowly warping under sustained load, it is a gradual, often imperceptible process that ratchets distortion by degrees. This process I call — **Drift**.
 
 _Drift is the slow, often invisible movement away from alignment — caused not by deliberate choice, but by the unexamined accumulation of incentive load: status, short-term planning, personal risk-avoidance, and optimisation for surrogate measurements._
 
