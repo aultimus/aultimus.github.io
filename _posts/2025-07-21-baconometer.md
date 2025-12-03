@@ -1,4 +1,7 @@
-# Building the Baconometer
+---
+layout: post
+title: "Building the Baconometer"
+---
 
 ## Introduction
 
