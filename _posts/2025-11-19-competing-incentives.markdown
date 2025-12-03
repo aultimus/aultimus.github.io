@@ -1,4 +1,7 @@
-# Security vs Engineering - Competing Incentives
+---
+layout: post
+title: "Security vs Engineering - Competing Incentives"
+---
 
 This morning I tried to upload a custom camera-firmware build via Slack to unblock a colleague. Instead of a normal upload, Slack responded with:
 
