@@ -53,8 +53,9 @@ pre, code {
 
 /* Blockquotes */
 blockquote {
-  border-left: 3px solid var(--accent) !important;
-  color: var(--fg-muted) !important;
+  border-left: 3px solid var(--border) !important;
+  color: var(--fg) !important;
+  background: transparent !important;
 }
 
 body {
