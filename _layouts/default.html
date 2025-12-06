@@ -8,9 +8,15 @@
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
         <nav>
-            <!-- Navigation links -->
+            <ul class="site-nav">
+                <li><a href="https://foobarcat.com/">Home</a></li>
+                <li><a href="https://foobarcat.com/about/">About</a></li>
+                <li><a href="{{ '/' | relative_url }}">Writing</a></li>
+                <li><a href="https://foobarcat.com/consulting/">Consulting</a></li>
+                <li><a href="https://foobarcat.com/projects/">Projects</a></li>
+                <li><a href="https://foobarcat.com/contact/">Contact</a></li>
+            </ul>
         </nav>
     </header>
     <main>

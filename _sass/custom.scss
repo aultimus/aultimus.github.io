@@ -128,3 +128,31 @@ a:hover {
   color: #8fe9ff !important;
   border-bottom-color: rgba(97, 218, 251, 0.7) !important;
 }
+
+/* Horizontal site nav */
+.site-nav {
+    list-style: none;
+    padding: 1.2rem 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    border-bottom: 1px solid #333; /* optional, matches subpages */
+}
+
+.site-nav li a {
+    text-decoration: none;
+    color: #61dafb;
+    transition: color 0.3s;
+    font-size: 0.95em;
+}
+
+.site-nav li a:hover {
+    color: #21a1f1;
+}
+
+.page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 3rem;
+}
