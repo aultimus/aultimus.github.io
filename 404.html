@@ -19,6 +19,12 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>Page not found</strong></p>
+  <p>This site has moved. You will be redirected to the new blog location.</p>
+  <p>If you are not redirected, <a href="https://foobarcat.com/blog/">click here to go to foobarcat.com/blog</a>.</p>
+
+  <script>
+    // Redirect any missing pages on the old blog to the new blog home
+    window.location.replace('https://foobarcat.com/blog/');
+  </script>
 </div>
